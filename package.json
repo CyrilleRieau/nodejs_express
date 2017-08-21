@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_express",
+  "version": "0.0.1",
+  "description": "Installation Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrilleRieau/nodejs_express.git"
+  },
+  "keywords": [
+    "Express",
+    "Nodejs"
+  ],
+  "author": "Cyrille Rieau <cyrille.rieau@simplon.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyrilleRieau/nodejs_express/issues"
+  },
+  "homepage": "https://github.com/CyrilleRieau/nodejs_express#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
